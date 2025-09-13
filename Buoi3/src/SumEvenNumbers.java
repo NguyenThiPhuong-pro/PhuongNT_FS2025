@@ -1,4 +1,4 @@
-// Cho mảng: {1, 2, 3, 4, 5, 6}. Dùng for-each để tính tổng các sẵn trong mảng
+// Câu 8:  Cho mảng: {1, 2, 3, 4, 5, 6}. Dùng for-each để tính tổng các sẵn trong mảng
 public class SumEvenNumbers {
     public static void main(String[] args) {
         // Khai báo và khởi tạo mảng

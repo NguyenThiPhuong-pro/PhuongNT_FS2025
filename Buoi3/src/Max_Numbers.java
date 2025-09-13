@@ -1,3 +1,4 @@
+// Câu 7: Cho mảng: {3, 7, 2, 9,5}. Dùng for -each để duyệt mảng và tìm số lớn nhất
 public class Max_Numbers {
     public static void main(String[] args) {
         // Khai báo và khởi tạo mảng
